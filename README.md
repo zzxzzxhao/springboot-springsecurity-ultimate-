@@ -3,11 +3,15 @@
 
 > 如果该项目对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
-> 或者您可以 "follow" 一下，该项目将持续更新，不断完善功能。
+> 或者您可以 "follow" 一下
 
 > 如有问题或者好的建议可以在 Issues 中提。
 
 > 相应的文章在我的博客可以看到：https://blog.csdn.net/zzxzzxhao/article/details/83381876
+
+> 下个项目准备弄一个微服务，以SpringCloud来搭建，zuul+eureka+Hystrix+SpringCloud Config+RabbitMq+Feign，
+> 项目已搭好，现在在集成Spring Security Oauth2做认证鉴权，有兴趣的小伙伴多留意哦！
+
 
 #### 开发环境
 
@@ -17,9 +21,9 @@ JDK | 1.8
 Mysql | 8.0.11
 Redis | 3.2.100
 
-#### 技术
+#### 技术选型
 
-工具| 说明
+技术| 说明
 ----|----
 Spring Boot | 容器+MVC框架
 Spring Security | 认证和授权框架
